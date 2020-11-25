@@ -1,5 +1,5 @@
-from future_storage import future_editor
+from future_storage import StartScreen
 
 def main():
-	future_editor()
+	StartScreen()
 main()

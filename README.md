@@ -23,6 +23,9 @@ Even though this would work , i would recommend you to use --user.
 
 To start future editor type```future-editor```in command line.
 
+# Note
+This is still not a stable version , to use stable version download it from pip
+
 # Credits
 This library was created by sanjay marison, please feel free contact me for any queries or any other problems,improvements to my code at 
 marisonsanjay@gmail.com, thank you for using my code.
