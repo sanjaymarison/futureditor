@@ -1,5 +1,5 @@
 # futureeditor
-A simple command line text-editor
+A simple command line code-editor
 
 # Installation
 1) To install the futureditor package on windows  
